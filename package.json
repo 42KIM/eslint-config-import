@@ -1,0 +1,29 @@
+{
+  "name": "@42kim/eslint-config-react",
+  "version": "0.0.0",
+  "description": "simple, essential eslint-react config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/42KIM/eslint-config-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "react",
+    "styleguide"
+  ],
+  "author": "42kim <42kim.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/42KIM/eslint-config-react/issues"
+  },
+  "homepage": "https://github.com/42KIM/eslint-config-react#readme",
+  "dependencies": {
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-import": "^2.27.5"
+  },
+  "peerDependencies": {
+    "eslint": "^8.37.0"
+  }
+}
